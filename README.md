@@ -5,8 +5,8 @@ Dependencies :
 * npm install bootstrap
 * npm install axios
 
-Nasa API website : https://api.nasa.gov/
-API Used : https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08&api_key=DEMO_KEY
+**Nasa API website** : https://api.nasa.gov/ <br />
+**API Used** : https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08&api_key=DEMO_KEY <br />
 
 This Project Helps to find:
 * Average size of asteroids visiting near earth between 2 input dates.
