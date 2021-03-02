@@ -13,7 +13,7 @@ This Project Helps to find:
 * Maximum speed among all ther asteroids visiting near earth between 2 input dates.
 * Closest distance among all ther asteroids visiting near earth between 2 input dates.
 
-Note : (In these senerio the app will give wrong input)
+**Note** : (In these senerio the app will give wrong input)
 * The Dates entered should have a maximum difference of 7 days.
 * If any one of the input fields are not filled.
 * If the start date is more than the end date.
