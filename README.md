@@ -1,8 +1,9 @@
 # Asteroid - Neo Stats
 
 Dependencies :
-npm install bootstrap
-npm install axios
+* npx creat-react-app asteroid-project
+* npm install bootstrap
+* npm install axios
 
 This Project Helps to find:
 * Average size of asteroids visiting near earth between 2 input dates.
